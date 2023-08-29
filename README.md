@@ -1,7 +1,6 @@
 ﻿# ExpenseCalculator
 
- Bu proje HTML CSS ve JavaScript kullanılarak oluşturulmuştur. </br>
+This project was created using HTML CSS and JavaScript. </br>
 </br>
 
-<h2> Find the screen gif below </h2> 
 
